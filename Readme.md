@@ -76,7 +76,7 @@ Potential Applications: Robotic vision, outdoor object recognition, automated da
 영어와 한글로 문서를 작성했습니다
 원본 데이터는 AI HUB에서 가져왔습니다
 
-
+https://docs.google.com/presentation/d/1jZMI1pps5wzREGLluMOnhz3X91RsOeX88p6uDqy17MI/edit?slide=id.g38dd7bd6512_3_0#slide=id.g38dd7bd6512_3_0
 
 # 간판렌즈(SignLens)
 
